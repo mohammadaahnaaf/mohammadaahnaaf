@@ -1,4 +1,4 @@
-### Hello World, I'm [Mohammed Ahnaf Al Rohmany](https://ahnafiah.com) ! 👋
+### Salam Alykum O World, I'm [Mohammed Ahnaf Al Rohmany](https://ahnafiah.com) ! 👋
 
 <a href="https://twitter.com/AhnafurR">
   <img align="left" alt="Ahnaf's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
