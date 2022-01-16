@@ -12,7 +12,7 @@
 <a href="https://t.me/meeherr">
   <img align="left" alt="Ahnaf's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://instagram.com/imSaharukh/">
+<a href="https://instagram.com/muhammed_ahnaaf/">
   <img align="left" alt="Ahnaf's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/aahnaf.19/">
