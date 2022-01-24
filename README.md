@@ -29,7 +29,7 @@
 - 💬 Ask me about React or any tech related stuff.
 - 📫 How to reach me: [Facebook - @aahnaf.19](https://fb.com/aahnaf.19) , [telegram - @meeherr](https://t.me/meeherr)
 - 😄 Pronouns: He/His
-- 📗 I can speak: [বাংলা](https://en.wikipedia.org/wiki/Bengali_language) , [English](https://en.wikipedia.org/wiki/English_language) [Türkçe](https://en.wikipedia.org/wiki/Turkish_language) , [فارسی]( https://en.wikipedia.org/wiki/Persian_language) , [اردو]( https://en.wikipedia.org/wiki/Urdu) , [العربية]( https://en.wikipedia.org/wiki/Arabic) , [Русский](https://en.wikipedia.org/wiki/Russian_language) , [Ελληνικά](https://en.wikipedia.org/wiki/Greek_language) 
+- 📗 I can speak: [বাংলা](https://en.wikipedia.org/wiki/Bengali_language) , [English](https://en.wikipedia.org/wiki/English_language) , [Türkçe](https://en.wikipedia.org/wiki/Turkish_language) , [فارسی]( https://en.wikipedia.org/wiki/Persian_language) , [اردو]( https://en.wikipedia.org/wiki/Urdu) , [العربية]( https://en.wikipedia.org/wiki/Arabic) , [Русский](https://en.wikipedia.org/wiki/Russian_language) , [Ελληνικά](https://en.wikipedia.org/wiki/Greek_language) 
 - ⚡ True fact: Apperently I Am A Medieval Poet.
 
 **Languages and Tools:**
