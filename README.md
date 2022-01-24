@@ -1,4 +1,4 @@
-### Salam Alykum O World, I'm [Mohammed Ahnaf Al Rohmany](https://ahnafiah.com) ! 👋
+### Salam Alykum World, I'm [Mohammed Ahnaf Al Rohmany](https://ahnafiah.com) ! 👋
 
 <a href="https://twitter.com/AhnafurR">
   <img align="left" alt="Ahnaf's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -29,7 +29,8 @@
 - 💬 Ask me about React or any tech related stuff.
 - 📫 How to reach me: [Facebook - @aahnaf.19](https://fb.com/aahnaf.19) , [telegram - @meeherr](https://t.me/meeherr)
 - 😄 Pronouns: He/His
-- ⚡ True fact: Apperently I Am A Poet
+- 📗 I can speak: বাংলা English Türkçe اردو العربية فارسی Русский Ελληνικά 
+- ⚡ True fact: Apperently I Am A Medieval Poet.
 
 **Languages and Tools:**
 
