@@ -1,9 +1,9 @@
-### Salam!, I'm [Mohammed Ahnaf Al Rohmany](https://www.ahnafyaes.tech/) ! 👋
+### Salam!, I'm [Mohammed Ahnaf Al Rohmany](https://ahnafyaes.vercel.app) ! 👋
 
-<a href="https://twitter.com/AhnafurR">
+<a href="https://twitter.com/aahnafiya">
   <img align="left" alt="Ahnaf's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/ahnafiaR">
+<a href="https://linkedin.com/in/aahnafiya">
   <img align="left" alt="Ahnaf's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/mohammadaahnaaf">
@@ -12,7 +12,7 @@
 <a href="https://t.me/meeherr">
   <img align="left" alt="Ahnaf's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://instagram.com/muhammed_ahnaaf/">
+<a href="https://instagram.com/aahnafiya/">
   <img align="left" alt="Ahnaf's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/aahnaf.19/">
