@@ -1,22 +1,22 @@
 ### Salam!, I'm [Mohammed Ahnaf Al Rohmany](https://ahnafyaes.vercel.app) ! 👋
 
 <a href="https://twitter.com/aahnafiya">
-  <img align="left" alt="Ahnaf's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Ahnaf's Twitter" width="22px" src="https://ico.vercel.app/twitter/FFD700" />
 </a>
 <a href="https://linkedin.com/in/aahnafiya">
-  <img align="left" alt="Ahnaf's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Ahnaf's Linkdein" width="22px" src="https://ico.vercel.app/linkedin/FFD700" />
 </a>
 <a href="https://github.com/mohammadaahnaaf">
-  <img align="left" alt="Ahnaf's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Ahnaf's Github" width="22px" src="https://ico.vercel.app/github/FFD700" />
 </a>
 <a href="https://t.me/meeherr">
-  <img align="left" alt="Ahnaf's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Ahnaf's Telegram" width="22px" src="https://ico.vercel.app/telegram/FFD700" />
 </a>
 <a href="https://instagram.com/aahnafiya/">
-  <img align="left" alt="Ahnaf's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Ahnaf's Instagram" width="22px" src="https://ico.vercel.app/instagram/FFD700" />
 </a>
 <a href="https://www.facebook.com/aahnaf.19/">
-  <img align="left" alt="Ahnaf's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Ahnaf's Facebook" width="22px" src="https://ico.vercel.app/facebook/FFD700" />
 </a>
 
 <br/>
