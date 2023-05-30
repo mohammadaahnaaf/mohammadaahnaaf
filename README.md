@@ -1,4 +1,4 @@
-### Salam!, I'm [Mohammed Ahnaf Al Rohmany](https://ahnafyaes.vercel.app) ! 👋
+### Hello!, I'm [Mohammed Ahnaf Al Rohmany](https://ahnafyaes.vercel.app) ! 👋
 
 <a href="https://twitter.com/aahnafiya">
   <img align="left" alt="Ahnaf's Twitter" width="22px" src="https://ico.vercel.app/twitter/FFD700" />
