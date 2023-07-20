@@ -1,4 +1,4 @@
-### Hello!, I'm [Mohammed Ahnaf](https://ahnafyaes.vercel.app) ! 👋
+### Hello! I'm [Mohammed Ahnaf](https://ahnafyaes.vercel.app) ! 👋
 
 <a href="https://twitter.com/aahnafiya">
   <img align="left" alt="Ahnaf's Twitter" width="22px" src="https://ico.vercel.app/twitter/FFD700" />
@@ -23,7 +23,7 @@
 <br/>
 
 - 🏫 Studying ECE in [National University-Bangladesh (ISTT)](https://www.istt.edu.bd/)
-- 🌱 I’m currently learning, [Web-3](https://en.wikipedia.org/wiki/Web3), [Redux Toolkit](https://redux-toolkit.js.org/), [Blockchain Technology](https://www.blockchain.com/en/wallet).
+- 🌱 I’m currently learning, [Web-3](https://en.wikipedia.org/wiki/Web3), [NestJS](https://nestjs.com/), [Blockchain Technology](https://www.blockchain.com/en/wallet).
 - 💬 Ask me about app developements or any other tech related stuff.
 - 📫 Find me on: Facebook - [@aahnaf.19](https://fb.com/aahnaf.19) as well as on Telegram - [@meeherr](https://t.me/meeherr)
 - 📗 I can speak: [বাংলা](https://en.wikipedia.org/wiki/Bengali_language) , [English](https://en.wikipedia.org/wiki/English_language) , [Türkçe](https://en.wikipedia.org/wiki/Turkish_language) , [Русский](https://en.wikipedia.org/wiki/Russian_language) , [Ελληνικά](https://en.wikipedia.org/wiki/Greek_language), [فارسی]( https://en.wikipedia.org/wiki/Persian_language) , [اردو]( https://en.wikipedia.org/wiki/Urdu) , [العربية]( https://en.wikipedia.org/wiki/Arabic) 
