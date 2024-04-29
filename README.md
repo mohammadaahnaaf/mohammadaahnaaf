@@ -2,7 +2,7 @@
   <a href='https://ahnafyaes.vercel.app'><img src='public/vasilia.svg' width='164' height='152' alt='ahnafia-logo' /></a>
 </p>
 
-<div align='center'>
+<p align='center'>
 <a href="https://twitter.com/aahnafiya">
   <img align="left" alt="Ahnaf's Twitter" width="22px" src="https://ico.vercel.app/twitter/FFD700" />
 </a>
@@ -21,7 +21,7 @@
 <a href="https://www.facebook.com/aahnaf.19/">
   <img align="left" alt="Ahnaf's Facebook" width="22px" src="https://ico.vercel.app/facebook/FFD700" />
 </a>
-</div>
+</p>
 <br/>  
 
 ### Hello! I'm [Mohammed](https://ahnafyaes.vercel.app) ! 👋
