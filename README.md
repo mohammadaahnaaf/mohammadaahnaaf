@@ -1,6 +1,11 @@
 <p align='center'>
   <a href='https://ahnafyaes.vercel.app'><img src='public/vasilia.svg' width='164' height='152' alt='ahnafia-logo' /></a>
-<div style="text-align: center;">
+</p> 
+
+### Hello! I'm [Mohammed](https://ahnafyaes.vercel.app) ! 👋
+<br/>
+
+<div>
 <a href="https://twitter.com/aahnafiya">
   <img align="left" alt="Ahnaf's Twitter" width="22px" src="https://ico.vercel.app/twitter/FFD700" />
 </a>
@@ -20,11 +25,6 @@
   <img align="left" alt="Ahnaf's Facebook" width="22px" src="https://ico.vercel.app/facebook/FFD700" />
 </a>
 </div>
-<br/>
-</p>  
-<br/>  
-
-### Hello! I'm [Mohammed](https://ahnafyaes.vercel.app) ! 👋
 <br/>
 
 - 🏫 Studying ECE in [NU-Bangladesh](https://www.istt.edu.bd/)
