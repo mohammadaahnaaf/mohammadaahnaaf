@@ -3,7 +3,6 @@
 </p> 
 
 ### Hello! I'm [Mohammed](https://ahnafyaes.vercel.app) ! 👋
-<br/>
 
 <div>
 <a href="https://twitter.com/aahnafiya">
