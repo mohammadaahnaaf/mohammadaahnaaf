@@ -2,8 +2,7 @@
   <a href='https://ahnafyaes.vercel.app'><img src='public/vasilia.svg' width='164' height='152' alt='ahnafia-logo' /></a>
 </p>
 
-### Hello! I'm [Mohammed](https://ahnafyaes.vercel.app) ! 👋
-
+<div align='center'>
 <a href="https://twitter.com/aahnafiya">
   <img align="left" alt="Ahnaf's Twitter" width="22px" src="https://ico.vercel.app/twitter/FFD700" />
 </a>
@@ -22,8 +21,10 @@
 <a href="https://www.facebook.com/aahnaf.19/">
   <img align="left" alt="Ahnaf's Facebook" width="22px" src="https://ico.vercel.app/facebook/FFD700" />
 </a>
+</div>
+<br/>  
 
-<br/>
+### Hello! I'm [Mohammed](https://ahnafyaes.vercel.app) ! 👋
 <br/>
 
 - 🏫 Studying ECE in [NU-Bangladesh](https://www.istt.edu.bd/)
@@ -40,10 +41,14 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/vuejs/docs/main/src/public/logo.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/nimasfl/nestjs-icons/master/file_type_nestjs.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/electron/website/main/static/assets/img/logo.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/isocpp/logos/64ef037049f87ac74875dbe72695e59118b52186/cpp_logo.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
