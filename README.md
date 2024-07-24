@@ -5,8 +5,8 @@
 ### Hello! I'm [Mohammed](https://ahnafyaes.vercel.app) ! 👋
 <br/>
 <div>
-<a href="https://twitter.com/aahnafiya">
-  <img align="left" alt="Ahnaf's Twitter" width="22px" src="https://ico.vercel.app/twitter/FFD700" />
+<a href="https://x.com/aahnafiya">
+  <img align="left" alt="Ahnaf's Twitter" width="22px" src="https://ico.vercel.app/x/FFD700" />
 </a>
 <a href="https://linkedin.com/in/aahnafiya">
   <img align="left" alt="Ahnaf's Linkdein" width="22px" src="https://ico.vercel.app/linkedin/FFD700" />
