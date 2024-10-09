@@ -27,8 +27,8 @@
 <br/>
 <br/>
 
-- 🏫 Studying ECE in [NU-Bangladesh](https://www.istt.edu.bd/)
-- 🌱 I’m currently learning, [Web-3](https://ethereum.org/en/web3), [OpenAI](https://openai.com/), [Blockchain Technology](https://www.blockchain.com/).
+- 🏫 student of ECE in [NU-Bangladesh](https://www.istt.edu.bd/)
+- 🌱 I’m currently learning, [ML](https://en.wikipedia.org/wiki/Machine_learning), [LLM](https://www.cloudflare.com/learning/ai/what-is-large-language-model/).
 - 💬 Ask me about software developements, designings, AI or any other tech related stuff.
 - 📫 Find me on: [Facebook](https://fb.com/aahnaf.19) or [Telegram](https://t.me/meeherr)
 - 📗 I can speak: [বাংলা](https://en.wikipedia.org/wiki/Bengali_language) , [English](https://en.wikipedia.org/wiki/English_language) , [Türkçe](https://en.wikipedia.org/wiki/Turkish_language) , [Русский](https://en.wikipedia.org/wiki/Russian_language) , [Ελληνικά](https://en.wikipedia.org/wiki/Greek_language), [فارسی]( https://en.wikipedia.org/wiki/Persian_language) , [اردو]( https://en.wikipedia.org/wiki/Urdu) , [العربية]( https://en.wikipedia.org/wiki/Arabic) 
