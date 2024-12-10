@@ -2,7 +2,7 @@
   <a href='https://ahnafyaes.vercel.app'><img src='public/vasilia.svg' width='164' height='152' alt='ahnafia-logo' /></a>
 </p>
 <br/>
-<div align="center">
+<div style="display: flex; justify-content: center; gap: 15px;">
   <a href="https://x.com/aahnafiya" width='32px'>
     <img alt="Ahnaf's Twitter" width="22px" src="https://ico.vercel.app/x/FFD700" />
   </a>
