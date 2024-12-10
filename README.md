@@ -1,10 +1,11 @@
 <p align='center'>
   <a href='https://ahnafyaes.vercel.app'><img src='public/vasilia.svg' width='164' height='152' alt='ahnafia-logo' /></a>
 </p> 
-
+<p align='center'>
 ### Hello! I'm [Mohammed](https://ahnafyaes.vercel.app) ! 👋
+</p>
 <br/>
-<div>
+<p align='center'>
 <a href="https://x.com/aahnafiya">
   <img align="left" alt="Ahnaf's Twitter" width="22px" src="https://ico.vercel.app/x/FFD700" />
 </a>
