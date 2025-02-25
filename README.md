@@ -4,22 +4,22 @@
 <br/>
 <div align='center' style="display: flex; justify-content: center; space-x: 15px;">
   <a href="https://x.com/aahnafiya" width='32px'>
-    <img alt="Ahnaf's Twitter" width="22px" src="https://ico.vercel.app/x/FFD700" />
+    <img alt="Ahnaf's Twitter" width="22px" src="https://ico.vercel.app/x" />
   </a>
   <a href="https://linkedin.com/in/aahnafiya" width='32px'>
     <img alt="Ahnaf's LinkedIn" width="22px" src="public/linkedin.svg" />
   </a>
   <a href="https://github.com/mohammadaahnaaf" width='32px'>
-    <img alt="Ahnaf's GitHub" width="22px" src="https://ico.vercel.app/github/FFD700" />
+    <img alt="Ahnaf's GitHub" width="22px" src="https://ico.vercel.app/github" />
   </a>
   <a href="https://t.me/meeherr" width='32px'>
-    <img alt="Ahnaf's Telegram" width="22px" src="https://ico.vercel.app/telegram/FFD700" />
+    <img alt="Ahnaf's Telegram" width="22px" src="https://ico.vercel.app/telegram" />
   </a>
   <a href="https://instagram.com/aahnafiya/" width='32px'>
-    <img alt="Ahnaf's Instagram" width="22px" src="https://ico.vercel.app/instagram/FFD700" />
+    <img alt="Ahnaf's Instagram" width="22px" src="https://ico.vercel.app/instagram" />
   </a>
   <a href="https://www.facebook.com/aahnaf.19/" width='32px'>
-    <img alt="Ahnaf's Facebook" width="22px" src="https://ico.vercel.app/facebook/FFD700" />
+    <img alt="Ahnaf's Facebook" width="22px" src="https://ico.vercel.app/facebook" />
   </a>
 </div>
 
