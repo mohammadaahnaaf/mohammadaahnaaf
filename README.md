@@ -7,10 +7,10 @@
 <br/>
 
 <div align='center' style="display: flex; justify-content: center; gap: 15px;">
-  <a href="https://x.com/aahnafiya" style="text-decoration: none;">
+  <a href="https://x.com/aahnafiya" style="text-decoration: none; width: 24px">
     <img alt="Ahnaf's Twitter" width="22px" src="https://ico.vercel.app/x/white" />
   </a>
-  <a href="https://linkedin.com/in/aahnafiya" style="text-decoration: none;">
+  <a href="https://linkedin.com/in/aahnafiya" style="text-decoration: none; width: 24px">
     <img alt="Ahnaf's LinkedIn" width="22px" src="public/linkedin.svg" style="filter: invert(1);" />
   </a>
   <a href="https://github.com/mohammadaahnaaf" style="text-decoration: none;">
@@ -65,3 +65,4 @@
 <a href="https://github.com/mohammadaahnaaf">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadaahnaaf&theme=dark&hide_langs_below=1" />
 </a>
+
