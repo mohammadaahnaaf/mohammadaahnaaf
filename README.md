@@ -34,9 +34,7 @@
 
 </div> -->
 
----
-
-### Hello! I'm [Mohammed](https://ahnafyaes.vercel.app) ! 👋
+### Hello! I'm [Mohammed](https://ahnafya.com) ! 👋
 <br/>
 
 - 🏫 Graduate of Electronics & Communication Engineering (ECE).
