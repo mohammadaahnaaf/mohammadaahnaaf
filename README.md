@@ -39,12 +39,13 @@
 ### Hello! I'm [Mohammed](https://ahnafyaes.vercel.app) ! 👋
 <br/>
 
-- 🏫 Graduate of Electronics & Communication Engineering (ECE) from [NU-Bangladesh](https://www.istt.edu.bd/)
+- 🏫 Graduate of Electronics & Communication Engineering (ECE).
+- 🖥️ Currently Working as FullStack Software Developer.
 - 🌱 I’m currently learning [ML](https://en.wikipedia.org/wiki/Machine_learning), [LLM](https://www.cloudflare.com/learning/ai/what-is-large-language-model/)
 - 💬 Ask me about software development, UI UX designing, AI, or any other tech-related stuff
 - 📫 Find me on: [Facebook](https://fb.com/aahnaf.19)
 - 📗 I can speak: বাংলা, English, Türkçe, Русский, Ελληνικά, فارسی, اردو, العربية
-- ⚡ Fun fact: I am a Medieval Poet
+- 📖 Fun fact: I am a Medieval Poet
 
 **Languages and Tools:**
 
