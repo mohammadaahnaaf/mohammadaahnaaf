@@ -6,7 +6,7 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://x.com/aahnafiya">
   <img src="https://ico.vercel.app/x/white" width="28px" />
@@ -32,7 +32,7 @@
   <img src="https://ico.vercel.app/facebook/white" width="28px" />
 </a>
 
-</div>
+</div> -->
 
 ---
 
