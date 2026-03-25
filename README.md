@@ -7,22 +7,22 @@
 <br/>
 
 <div align='center' style="display: flex; justify-content: center; gap:'15px;'">
-  <a href="https://x.com/aahnafiya" style="text-decoration: none;" width="30px">
+  <a href="https://x.com/aahnafiya" style="text-decoration: none;" min-width="35px">
     <img alt="Ahnaf's Twitter" width="22px" src="https://ico.vercel.app/x/white" />
   </a>
-  <a href="https://linkedin.com/in/aahnafiya" style="text-decoration: none;" width="30px">
+  <a href="https://linkedin.com/in/aahnafiya" style="text-decoration: none;" min-width="35px">
     <img alt="Ahnaf's LinkedIn" width="22px" src="public/linkedin.svg" style="filter: invert(1);" />
   </a>
-  <a href="https://github.com/mohammadaahnaaf" style="text-decoration: none;" width="30px">
+  <a href="https://github.com/mohammadaahnaaf" style="text-decoration: none;" min-width="35px">
     <img alt="Ahnaf's GitHub" width="22px" src="https://ico.vercel.app/github/white" />
   </a>
-  <a href="https://t.me/meeherr" style="text-decoration: none;" width="30px">
+  <a href="https://t.me/meeherr" style="text-decoration: none;" min-width="35px">
     <img alt="Ahnaf's Telegram" width="22px" src="https://ico.vercel.app/telegram/white" />
   </a>
-  <a href="https://instagram.com/aahnafiya/" style="text-decoration: none;" width="30px">
+  <a href="https://instagram.com/aahnafiya/" style="text-decoration: none;" min-width="35px">
     <img alt="Ahnaf's Instagram" width="22px" src="https://ico.vercel.app/instagram/white" />
   </a>
-  <a href="https://www.facebook.com/aahnaf.19/" style="text-decoration: none;" width="30px">
+  <a href="https://www.facebook.com/aahnaf.19/" style="text-decoration: none;" min-width="35px">
     <img alt="Ahnaf's Facebook" width="22px" src="https://ico.vercel.app/facebook/white" />
   </a>
 </div>
@@ -32,10 +32,10 @@
 ### Hello! I'm [Mohammed](https://ahnafyaes.vercel.app) ! 👋
 <br/>
 
-- 🏫 student of ECE in [NU-Bangladesh](https://www.istt.edu.bd/)
+- 🏫 Graduate of Electronics & Communication Engineering (ECE) from [NU-Bangladesh](https://www.istt.edu.bd/)
 - 🌱 I’m currently learning [ML](https://en.wikipedia.org/wiki/Machine_learning), [LLM](https://www.cloudflare.com/learning/ai/what-is-large-language-model/)
-- 💬 Ask me about software development, design, AI, or any other tech-related stuff
-- 📫 Find me on: [Facebook](https://fb.com/aahnaf.19) or [Telegram](https://t.me/meeherr)
+- 💬 Ask me about software development, UI UX designing, AI, or any other tech-related stuff
+- 📫 Find me on: [Facebook](https://fb.com/aahnaf.19)
 - 📗 I can speak: বাংলা, English, Türkçe, Русский, Ελληνικά, فارسی, اردو, العربية
 - ⚡ Fun fact: I am a Medieval Poet
 
