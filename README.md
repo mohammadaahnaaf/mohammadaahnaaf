@@ -13,7 +13,7 @@
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/aahnafiya">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28px" />
+  <img src="public/linkedin.svg" width="28px" />
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/mohammadaahnaaf">
