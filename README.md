@@ -6,25 +6,32 @@
 
 <br/>
 
-<div align='center' style="display: flex; justify-content: center; gap:'15px;'">
-  <a href="https://x.com/aahnafiya" style="text-decoration: none;" min-width="35px">
-    <img alt="Ahnaf's Twitter" width="22px" src="https://ico.vercel.app/x/white" />
-  </a>
-  <a href="https://linkedin.com/in/aahnafiya" style="text-decoration: none;" min-width="35px">
-    <img alt="Ahnaf's LinkedIn" width="22px" src="public/linkedin.svg" style="filter: invert(1);" />
-  </a>
-  <a href="https://github.com/mohammadaahnaaf" style="text-decoration: none;" min-width="35px">
-    <img alt="Ahnaf's GitHub" width="22px" src="https://ico.vercel.app/github/white" />
-  </a>
-  <a href="https://t.me/meeherr" style="text-decoration: none;" min-width="35px">
-    <img alt="Ahnaf's Telegram" width="22px" src="https://ico.vercel.app/telegram/white" />
-  </a>
-  <a href="https://instagram.com/aahnafiya/" style="text-decoration: none;" min-width="35px">
-    <img alt="Ahnaf's Instagram" width="22px" src="https://ico.vercel.app/instagram/white" />
-  </a>
-  <a href="https://www.facebook.com/aahnaf.19/" style="text-decoration: none;" min-width="35px">
-    <img alt="Ahnaf's Facebook" width="22px" src="https://ico.vercel.app/facebook/white" />
-  </a>
+<div align="center">
+
+<a href="https://x.com/aahnafiya">
+  <img src="https://ico.vercel.app/x/white" width="28px" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/aahnafiya">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28px" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/mohammadaahnaaf">
+  <img src="https://ico.vercel.app/github/white" width="28px" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://t.me/meeherr">
+  <img src="https://ico.vercel.app/telegram/white" width="28px" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://instagram.com/aahnafiya/">
+  <img src="https://ico.vercel.app/instagram/white" width="28px" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.facebook.com/aahnaf.19/">
+  <img src="https://ico.vercel.app/facebook/white" width="28px" />
+</a>
+
 </div>
 
 ---
